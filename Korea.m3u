@@ -8,19 +8,19 @@ http://mytv.dothome.co.kr/ch/public/3.php
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="MBC Daegu" tvg-name="MBC Daegu" tvg-logo="" group-title="Main Channel",MBC Daegu [Not 24/7]
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS TBC" tvg-name="SBS TBC" tvg-logo="" group-title="Main Channel",MBC Daegu [Not 24/7]
+#EXTINF:-1 tvg-id="SBS TBC" tvg-name="SBS TBC" tvg-logo="" group-title="Main Channel",SBS TBC [Not 24/7]
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Main Channel",EBS 2TV
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="New Channel",Channel A
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
-#EXTINF:-1 tvg-id="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv" tvg-name="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv" tvg-logo="" group-title="New Channel",#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+#EXTINF:-1 tvg-id="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv" tvg-name="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv" tvg-logo="" group-title="New Channel", TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvN1" tvg-name="tvN Story" tvg-logo="" group-title="tvN",tvN1
+#EXTINF:-1 tvg-id="tvN1" tvg-name="tvN Story" tvg-logo="" group-title="tvN",tvN Story
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="tvN2" tvg-name="tvN" tvg-logo="" group-title="tvN",tvN2
+#EXTINF:-1 tvg-id="tvN2" tvg-name="tvN" tvg-logo="" group-title="tvN",tvN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 #EXTINF:-1 tvg-id="tvN3" tvg-name="tvN3" tvg-logo="" group-title="tvN",tvN3
 https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
@@ -50,7 +50,7 @@ http://mytv.dothome.co.kr/ch/catv/5.php
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS+ 2" tvg-name="EBS+ 2" tvg-logo="" group-title="Cable",EBS+ 2 (400p)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv" tvg-name="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv" tvg-logo="" group-title="Cable",#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+#EXTINF:-1 tvg-id="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv" tvg-name="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv" tvg-logo="" group-title="Cable", TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="ABN TV" tvg-name="ABN TV" tvg-logo="" group-title="Cable",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
