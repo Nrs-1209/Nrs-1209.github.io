@@ -1,0 +1,117 @@
+#EXTM3U url-tvg="https://github.com/globetvapp/epg/blob/main/Korea/korea1.xml" tvg-shift-0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Main Channel",EBS 1TV
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS 2TV" tvg-name="KBS 2TV" tvg-logo="" group-title="Main Channel",KBS 2TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBS 1TV" tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Main Channel",KBS 1TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="MBC Daegu" tvg-name="MBC Daegu" tvg-logo="" group-title="Main Channel",MBC Daegu [Not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS TBC" tvg-name="SBS TBC" tvg-logo="" group-title="Main Channel",MBC Daegu [Not 24/7]
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Main Channel",EBS 2TV
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="New Channel",Channel A
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+#EXTINF:-1 tvg-id="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv" tvg-name="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv" tvg-logo="" group-title="New Channel",#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvN1" tvg-name="tvN Story" tvg-logo="" group-title="tvN",tvN1
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-id="tvN2" tvg-name="tvN" tvg-logo="" group-title="tvN",tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 tvg-id="tvN3" tvg-name="tvN3" tvg-logo="" group-title="tvN",tvN3
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="CJ OnStyle" tvg-name="CJ OnStyle" tvg-logo="" group-title="Shopping",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="Home & Shopping" tvg-name="Home & Shopping" tvg-logo="" group-title="Shopping",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-id="NS Home Shopping" tvg-name="NS Home Shopping" tvg-logo="" group-title="Shopping",NS Home Shopping (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 tvg-id="NS Shop Plus" tvg-name="NS Shop Plus" tvg-logo="" group-title="Shopping",NS Shop Plus (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-id="Lotte OneTV" tvg-name="Lotte OneTV" tvg-logo="" group-title="Shopping",Lotte OneTV (720p)
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="Shinsegae Shopping TV" tvg-name="Shinsegae Shopping TV" tvg-logo="" group-title="Shopping",Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Shopping NT" tvg-name="Shopping NT" tvg-logo="" group-title="Shopping",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="W Shopping" tvg-name="W Shopping" tvg-logo="" group-title="Shopping",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS Drama" tvg-name="KBS Drama" tvg-logo="" group-title="Cable",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBS Life" tvg-name="KBS Life" tvg-logo="" group-title="Cable",KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBS LiveCam DokDo" tvg-name="KBS LiveCam DokDo" tvg-logo="" group-title="Cable",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS+ 2" tvg-name="EBS+ 2" tvg-logo="" group-title="Cable",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv" tvg-name="#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv" tvg-logo="" group-title="Cable",#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="ABN TV" tvg-name="ABN TV" tvg-logo="" group-title="Cable",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV Asia Live Event" tvg-name="Bloomberg TV Asia Live Event" tvg-logo="" group-title="Cable",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="CGNTV South Korea" tvg-name="CGNTV South Korea" tvg-logo="" group-title="Cable",CGNTV South Korea (1080p)
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-1 tvg-id="EWTN Africa Asia" tvg-name="EWTN Africa Asia" tvg-logo="" group-title="Cable",EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN Asia-Pacific" tvg-name="EWTN Asia-Pacific" tvg-logo="" group-title="Cable",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN24 Korean" tvg-name="GCN24 Korean" tvg-logo="" group-title="Cable",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodTV" tvg-name="GoodTV" tvg-logo="" group-title="Cable",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Gugbang TV" tvg-name="Gugbang TV" tvg-logo="" group-title="Cable",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV 광주 CH05" tvg-name="KCTV 광주 CH05" tvg-logo="" group-title="Cable",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTV" tvg-name="NHTV" tvg-logo="" group-title="Cable",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="RUTC TV" tvg-name="RUTC TV" tvg-logo="" group-title="Cable",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVE Internacional Europe-Asia" tvg-name="TVE Internacional Europe-Asia" tvg-logo="" group-title="Cable",TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="" group-title="Music",Arirang
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang Radio" tvg-name="Arirang Radio" tvg-logo="" group-title="Music",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Korean Song Channel" tvg-name="Korean Song Channel" tvg-logo="" group-title="Music",Korean Song Channel (720p)
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BBC News Asia Pacific" tvg-name="BBC News Asia Pacific" tvg-logo="" group-title="News",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-id="BBS Buddhist Broadcasting" tvg-name="BBS Buddhist Broadcasting" tvg-logo="" group-title="Religion",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC Andong" tvg-name="MBC Andong" tvg-logo="" group-title="MBC",MBC Andong (안동 MBC) (360p) [Not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Chuncheon" tvg-name="MBC Chuncheon" tvg-logo="" group-title="MBC",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Jeju" tvg-name="MBC Jeju" tvg-logo="" group-title="MBC",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Mokpo" tvg-name="MBC Mokpo" tvg-logo="" group-title="MBC",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Yeosu" tvg-name="MBC Yeosu" tvg-logo="" group-title="MBC",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBS CJB" tvg-name="SBS CJB" tvg-logo="" group-title="SBS",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS G1" tvg-name="SBS G1" tvg-logo="" group-title="SBS",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS JIBS" tvg-name="SBS JIBS" tvg-logo="" group-title="SBS",SBS JIBS (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="SBS JTV" tvg-name="SBS JTV" tvg-logo="" group-title="SBS",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS KBC" tvg-name="SBS KBC" tvg-logo="" group-title="SBS",SBS KBC (1080p) [Not 24/7]
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS KNN" tvg-name="SBS KNN" tvg-logo="" group-title="SBS",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="SBS TJB" tvg-name="SBS TJB" tvg-logo="" group-title="SBS",SBS TJB (1080p) [Not 24/7]
+http://1.245.74.5:1935/live/tv/.m3u8
